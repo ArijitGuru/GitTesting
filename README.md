@@ -1,5 +1,10 @@
 
-Cheatsheet : https://education.github.com/git-cheat-sheet-education.pdf
+Cheatsheet : 
+1. https://education.github.com/git-cheat-sheet-education.pdf
+2. https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
+
+
+
 Tutorial:
 1. https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
